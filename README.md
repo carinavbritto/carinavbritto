@@ -1,7 +1,6 @@
 <div align="center">
 	<h1 align="left"> Hello world, I'm Carina xD</h1>
 	<p align="left">:earth_americas: Rio de Janeiro, RJ - Brazil</p>
-	<br/>
 	<p align="left">Front-end Developer | Full-stack Student </p>
 </div>
 <table align="center">
