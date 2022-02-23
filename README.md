@@ -26,12 +26,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-
-			</div>
-			<br>
-			<h3>:open_file_folder: Databases</h2>
-			<div>
 ![MongoDB](http://img.shields.io/badge/-MongoDB-5C9F35?style=flat&logo=mongodb&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 			</div>
