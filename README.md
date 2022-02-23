@@ -44,6 +44,5 @@
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/-carinavbritto@gmail.com-c14438?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:carinavbritto@gmail.com)](mailto:carinavbritto@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-carinavbritto-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carinavbritto/)](https://www.linkedin.com/in/carinavbritto/)
 
 </div>
