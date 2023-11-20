@@ -11,7 +11,7 @@
 	
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Angular17](https://img.shields.io/badge/-Angular-%23282C34?style=flat&logo=react)
+![Angular17](https://img.shields.io/badge/-Angular-%23282C34?style=flat&logo=angular)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat&logo=react)
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
