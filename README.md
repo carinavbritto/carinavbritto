@@ -3,7 +3,7 @@
 
 ## Hello, there ✌
 
-I'm Carina, a full-stack web developer from Rio de Janeiro, RJ. I have a profound passion for programming, constantly striving to blend technology and creativity. My goal is to craft exceptional websites and applications that not only tackle real-world challenges but also provide an engaging user experience across all devices. Currently, I'm dedicated to frontend and mobile development, always prioritizing innovation and excellence in every project I undertake.
+I'm Carina, a fullstack developer from Rio de Janeiro, RJ 🇧🇷. I have a profound passion for programming, constantly striving to blend technology and creativity. My goal is to craft exceptional websites and applications that not only tackle real-world challenges but also provide an engaging user experience across all devices. Currently, I'm dedicated to frontend and mobile development, always prioritizing innovation and excellence in every project I undertake.
 
 :mailbox_with_mail: I'm currently open for new projects so you can reach me trough:
 
