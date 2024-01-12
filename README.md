@@ -27,9 +27,9 @@ In the frontend
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![My Skills](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)<br/>
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)<br/>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com/material-ui/)
