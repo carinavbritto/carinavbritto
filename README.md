@@ -1,13 +1,10 @@
-
-
-
 ## Hello, there ✌
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carinavbritto/)](https://www.linkedin.com/in/carinavbritto/)
+[![Gmail Badge](https://img.shields.io/badge/-carinavbritto@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carinavbritto@gmail.com)](mailto:carinavbritto@gmail.com)
 
 I'm Carina, a fullstack developer from Rio de Janeiro, RJ 🇧🇷. I have a profound passion for programming, constantly striving to blend technology and creativity. My goal is to craft exceptional websites and applications that not only tackle real-world challenges but also provide an engaging user experience across all devices. Currently, I'm dedicated to frontend and mobile development, always prioritizing innovation and excellence in every project I undertake.
 
-:mailbox_with_mail: I'm currently open for new projects so you can reach me trough:
-
-[![Gmail Badge](https://img.shields.io/badge/-carinavbritto@gmail.com-c14438?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:carinavbritto@gmail.com)](mailto:carinavbritto@gmail.com)
 
 <a href="#">
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
@@ -73,3 +70,4 @@ In DevOps:
 [![My Skills](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
 [![My Skills](https://skillicons.dev/icons?i=circleci)](https://circleci.com/)
 
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carinavbritto)](https://github.com/anuraghazra/github-readme-stats)
