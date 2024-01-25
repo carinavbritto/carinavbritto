@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carinavbritto/)](https://www.linkedin.com/in/carinavbritto/)
 [![Gmail Badge](https://img.shields.io/badge/-carinavbritto@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carinavbritto@gmail.com)](mailto:carinavbritto@gmail.com)
 
-I'm Carina, a fullstack developer from Rio de Janeiro, RJ 🇧🇷. I have a profound passion for programming, constantly striving to blend technology and creativity. My goal is to craft exceptional websites and applications that not only tackle real-world challenges but also provide an engaging user experience across all devices. Currently, I'm dedicated to frontend and mobile development, always prioritizing innovation and excellence in every project I undertake.
+I'm Carina, a software engineer from Rio de Janeiro, RJ 🇧🇷. I have a profound passion for programming, constantly striving to blend technology and creativity. My goal is to craft exceptional websites and applications that not only tackle real-world challenges but also provide an engaging user experience across all devices. Currently, I'm dedicated to frontend and mobile development, always prioritizing innovation and excellence in every project I undertake.
 
 
 <a href="#">
