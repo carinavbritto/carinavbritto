@@ -64,10 +64,4 @@ In code versioning:
 [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/)
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 
-In DevOps:
-
-[![My Skills](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co/)
-[![My Skills](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
-[![My Skills](https://skillicons.dev/icons?i=circleci)](https://circleci.com/)
-
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carinavbritto)](https://github.com/anuraghazra/github-readme-stats)
