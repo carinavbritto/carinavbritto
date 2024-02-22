@@ -1,4 +1,4 @@
-## Hello, there ✌
+## Hello, there ✌ (repository under construction)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carinavbritto/)](https://www.linkedin.com/in/carinavbritto/)
 [![Gmail Badge](https://img.shields.io/badge/-carinavbritto@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carinavbritto@gmail.com)](mailto:carinavbritto@gmail.com)
@@ -14,7 +14,7 @@ I'm Carina, a software engineer from Rio de Janeiro, RJ 🇧🇷. I have a profo
 ### Here's some of the stuff I like to use
 
 
-In the frontend
+In the frontend:
 
 [![My Skills](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
