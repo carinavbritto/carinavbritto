@@ -13,6 +13,11 @@ I'm Carina, a software engineer from Rio de Janeiro, RJ 🇧🇷. I have a profo
 
 ### Here's some of the stuff I like to use
 
+In the mobile:
+
+[![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://reactnative.dev/)
+
 
 In the frontend:
 
@@ -47,9 +52,6 @@ In the backend:
 [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
-In the mobile:
-
-[![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
 
 In the unit tests:
 
