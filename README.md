@@ -65,3 +65,6 @@ In code versioning:
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/)
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carinavbritto)](https://github.com/anuraghazra/github-readme-stats)
