@@ -67,3 +67,6 @@ In code versioning:
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carinavbritto)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carinavbritto)](https://github.com/anuraghazra/github-readme-stats)
+
