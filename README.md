@@ -16,7 +16,7 @@ I'm Carina, a software engineer from Rio de Janeiro, RJ 🇧🇷. I have a profo
 In the mobile:
 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
-[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://reactnative.dev/)
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://reactnative.dev](https://kotlinlang.org/)
 
 
 In the frontend:
